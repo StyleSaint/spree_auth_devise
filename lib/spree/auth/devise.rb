@@ -1,6 +1,6 @@
 require 'spree/core'
 require 'devise'
-require 'devise-encryptable'
+# require 'devise-encryptable'
 require 'cancan'
 
 module Spree
